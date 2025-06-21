@@ -1,4 +1,36 @@
-# مشروع WE GYM - تطبيق اللياقة المتكامل
+<div dir="rtl">
+
+# مشروع WE GYM
+
+## نظرة عامة
+...
+
+## الميزات
+...
+
+## التنصيب
+...
+
+## الاستخدام
+...
+
+</div>
+
+---
+
+# WE GYM Project
+
+## Overview
+...
+
+## Features
+...
+
+## Installation
+...
+
+## Usage
+...# مشروع WE GYM - تطبيق اللياقة المتكامل
 
 ![WE GYM Logo](https://via.placeholder.com/150/6E2B8F/FFFFFF?text=WE+GYM)
 
